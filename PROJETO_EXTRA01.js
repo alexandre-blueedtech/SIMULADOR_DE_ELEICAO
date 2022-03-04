@@ -1,15 +1,11 @@
 console.clear()
 
-
 var prompt = require('prompt-sync')();
-
 var teste;
 let votar;
 var encerra = false;
-
 var valido;
 let anoNascimento;
-
 const votos = []
 
 const opcoes = {
